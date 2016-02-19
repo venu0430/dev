@@ -3,8 +3,8 @@
 <title>
 Devops Classes
 </title>
+</head>
 <body>
 amazon web services
 </body>
-</head>
 </html>
